@@ -22,6 +22,6 @@ end
 
 def return_string_array(array)
   array.each {|x| x.to_str}
-  puts x 
+    puts x 
   end
 end 
