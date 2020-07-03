@@ -21,7 +21,7 @@ def output_array(array)
 end
 
 def return_string_array(array)
-  array.each {|x| x.to_str}
-    puts x 
+  array.each do |x|
+    
   end
 end 
