@@ -22,6 +22,6 @@ end
 
 def return_string_array(array)
   array.each do |x|
-    
+    puts "#{x}"
   end
 end 
