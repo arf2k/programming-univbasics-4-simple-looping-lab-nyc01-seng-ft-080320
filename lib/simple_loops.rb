@@ -19,3 +19,7 @@ def output_array(array)
     puts x 
   end
 end
+
+def return_string_array(array)
+  array.each do |x|
+    puts x.to_s 
